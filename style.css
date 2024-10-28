@@ -39,4 +39,7 @@ input{
     height: 100px;
     width: 300px;
     margin: 2px;
+    font-size: 40px;
+    font-weight: bold;
+
 }
